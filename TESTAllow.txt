@@ -1,2 +1,2 @@
-www.amazon.com
-www.alibaba.com
+amazon.com
+alibaba.com
