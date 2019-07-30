@@ -1,3 +1,3 @@
-www.starbucks.com
-www.disney.com
-www.samsung.com
+starbucks.com
+disney.com
+samsung.com
